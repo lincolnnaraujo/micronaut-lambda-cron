@@ -1,0 +1,6 @@
+applicationType: function
+defaultPackage: br.com.micronaut
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [app-name, aws-lambda, java, junit, logback, maven, readme, shade, yaml]
